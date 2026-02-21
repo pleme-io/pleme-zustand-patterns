@@ -1,6 +1,6 @@
 {
   "name": "@pleme-io/zustand-patterns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zustand store patterns with immer, persist, devtools, and type-safe modals",
   "type": "module",
   "main": "./dist/index.js",
